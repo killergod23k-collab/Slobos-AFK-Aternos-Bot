@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "death.playwithbao.com",
+    "ip": "death.playwithbao.com:51040",
     "port": 51040,
     "version": "1.21.11",
     "try-creative": false
